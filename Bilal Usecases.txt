@@ -1,0 +1,6 @@
+Stock Reservation
+The use case deals with the reservation of bulk stocks of grocery items. This implies that if a certain order with a bulk amount of items is received, in this condition it’d not be easy to immediately fulfill the order and deliver it, sometime might be required but maybe the user can’t wait for long and wants the order to be delivered as soon as possible, for this situation stocks of items in bulk is reserved and the order is fulfilled as soon as its possible from those reserved stocks.
+
+New Store Onboard
+The Grocery-Delivery-Application partners up with different departmental and super stores or marts in different areas to deliver their products to the customer, in this way it creates business opportunities for such marts and stores.
+If some new store wants to partner up with the Grocery-Delivery-Application, they send an email with their details (owner name & contact no. , address) and a meeting is scheduled, if the meeting is a success, the new store is now onboard with Grocery-Delivery-Application and can get their products delivered to their customers.
