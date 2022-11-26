@@ -2,8 +2,7 @@ Create Order :
  User will login/Signup into the application.
  Provide location access and phone number.
  Browse categories of grocery items .
- Browse items, select items and their quantities (if in
-bulk user will be notified to provide urgency details).
+ Browse items
  Add desired items to cart.
  Provide payment details and select payment options.
  Place Order
