@@ -1,0 +1,14 @@
+Create Order :
+ User will login/Signup into the application.
+ Provide location access and phone number.
+ Browse categories of grocery items .
+ Browse items
+ Add desired items to cart.
+ Provide payment details and select payment options.
+ Place Order
+
+Delivery:
+ Order Confirmation
+ Address Confirmation
+ Assign orders to the delivery boy area wise.
+ Deliver order to their destinations 
