@@ -11,4 +11,4 @@ Delivery:
  Order Confirmation
  Address Confirmation
  Assign orders to the delivery boy area wise.
- Deliver order to their destinations 
+ Deliver order to their destinations
