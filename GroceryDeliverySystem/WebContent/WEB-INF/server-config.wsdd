@@ -74,11 +74,11 @@
    <ns1:parameter qname="ns6:bike" type="xsd:string" xmlns:xsd="http://www.w3.org/2001/XMLSchema"/>
   </ns1:operation>
   <ns1:parameter name="allowedMethods" value="getRiderDetails"/>
-  <ns1:parameter name="typeMappingVersion" value="1.2"/>
   <ns1:parameter name="wsdlPortType" value="RiderDetails"/>
-  <ns1:parameter name="className" value="main.RiderDetails"/>
-  <ns1:parameter name="wsdlServicePort" value="RiderDetails"/>
+  <ns1:parameter name="typeMappingVersion" value="1.2"/>
   <ns1:parameter name="schemaQualified" value="http://main"/>
+  <ns1:parameter name="wsdlServicePort" value="RiderDetails"/>
+  <ns1:parameter name="className" value="main.RiderDetails"/>
   <ns1:parameter name="wsdlTargetNamespace" value="http://main"/>
   <ns1:parameter name="wsdlServiceElement" value="RiderDetailsService"/>
   <ns1:typeMapping deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle="" qname="ns7:Rider" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" type="java:main.Rider" xmlns:ns7="http://main"/>

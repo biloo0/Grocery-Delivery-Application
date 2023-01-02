@@ -10,7 +10,7 @@
 <h1>Grocery Delivery System</h1>
 <form action = "ProductsOutput.jsp">
 
-<label>Bikes</label>
+<label>Categories</label>
 <select name="Categories">
 <option value="Kitchen Essentials">Kitchen Essentials</option>
 <option value="Bathroom Essentials">Batroom Essentials</option>
